@@ -1,6 +1,6 @@
-// import iziToast from 'izitoast';
-// import 'izitoast/dist/css/iziToast.min.css';
-// import { alertOptions } from './alertOptions.js';
+import iziToast from 'izitoast';
+import 'izitoast/dist/css/iziToast.min.css';
+import { alertOptions } from './alertOptions.js';
 
 const form = document.querySelector('.form');
 const radioButtons = document.querySelectorAll('input[name="state"]');
